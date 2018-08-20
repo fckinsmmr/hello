@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="hello" Database="" Version="10.0.0">
+  <Project Name="hi" Path="hi/hi.project" Active="No"/>
+  <Project Name="bae" Path="bae/bae.project" Active="No"/>
+  <Project Name="wtf" Path="wtf/wtf.project" Active="No"/>
+  <Project Name="eyyo" Path="eyyo/eyyo.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="hi" ConfigName="Debug"/>
+      <Project Name="bae" ConfigName="Debug"/>
+      <Project Name="wtf" ConfigName="Debug"/>
+      <Project Name="eyyo" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="hi" ConfigName="Release"/>
+      <Project Name="bae" ConfigName="Release"/>
+      <Project Name="wtf" ConfigName="Release"/>
+      <Project Name="eyyo" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

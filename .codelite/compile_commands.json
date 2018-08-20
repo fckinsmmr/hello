@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\Users\\MZNTR\\Documents\\hello\\wtf\\main.cpp",
+  "directory": "C:\\Users\\MZNTR\\Documents\\hello\\wtf",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c C:\\Users\\MZNTR\\Documents\\hello\\wtf\\main.cpp -o C:\\Users\\MZNTR\\Documents\\hello\\wtf\\main.cpp.o  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\MZNTR\\Documents\\hello\\hi\\main.cpp",
+  "directory": "C:\\Users\\MZNTR\\Documents\\hello\\hi",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c C:\\Users\\MZNTR\\Documents\\hello\\hi\\main.cpp -o C:\\Users\\MZNTR\\Documents\\hello\\hi\\main.cpp.o  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\MZNTR\\Documents\\hello\\bae\\main.cpp",
+  "directory": "C:\\Users\\MZNTR\\Documents\\hello\\bae",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c C:\\Users\\MZNTR\\Documents\\hello\\bae\\main.cpp -o C:\\Users\\MZNTR\\Documents\\hello\\bae\\main.cpp.o  -g  -O0  -Wall -I. -I."
+ }]
